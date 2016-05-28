@@ -8,7 +8,7 @@ CCT need curl.h library to operate. You can install it from [this link](https://
 ***
 ## Installation
 ***
-Install cct is simple. Open the console and locate yourself within the 'Currency Converter Tool' folder
+Install cct is simple. Open the console and locate yourself within the 'CCT' folder
 
 Run:
 ```sh
